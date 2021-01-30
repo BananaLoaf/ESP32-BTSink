@@ -1,0 +1,9 @@
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
+
+include/README
+
+lib/README
+
+test/README

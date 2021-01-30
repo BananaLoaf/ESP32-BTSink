@@ -1,0 +1,3 @@
+[submodule "lib/btAudio"]
+	path = lib/btAudio
+	url = https://github.com/BananaLoaf/btAudio.git
